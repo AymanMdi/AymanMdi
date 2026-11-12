@@ -9,6 +9,7 @@
 
 <p align="center">
 <a href="mailto:aymanmadrassi@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayman-madrassi/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/AymanMdi"><img alt="GitHub followers" src="https://img.shields.io/github/followers/AymanMdi?style=for-the-badge&logo=github&color=181717"></a>
 <img src="https://komarev.com/ghpvc/?username=AymanMdi&color=D40511&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -27,7 +28,7 @@
 - 🎓 **Currently:** Engineering cycle, **Data & Artificial Intelligence** major at **ESILV** (2026 – 2029), work-study program.
 - ✈️ **Apprenticeship:** Business Process & Digital Solutions Analyst in the BPO team at **DHL Global Forwarding** (Roissy): master data quality, KPIs, UAT testing, process digitalization & automation.
 - 📐 **Background:** 2 years of integrated preparatory cycle at **CY Tech**, Applied Mathematics & Computer Science.
-- 🍔 **Recent project:** FC Burger Dreux, a full web app (HTML/CSS/PHP/SQL) built as a duo.
+- 🛠️ **Recent projects:** C-Wildwater (data processing in C with AVL trees + Bash/GnuPlot), CY-Chen (animal shelter manager in C) and FC Burger Dreux (full web app).
 - 💬 **Interests:** Data, AI, Process automation, MMA, Manga & Anime, Pool, Running & Gym.
 - 📫 **Contact me:** aymanmadrassi@gmail.com
 
@@ -40,7 +41,7 @@ class Ayman:
         self.role = "Business Process & Digital Solutions Apprentice @ DHL Global Forwarding"
         self.school = "ESILV - Data & AI Engineering (2026-2029)"
         self.previous = "CY Tech - Integrated Preparatory Cycle"
-        self.stack = ["Python", "SQL", "Power BI", "PHP", "Git"]
+        self.stack = ["Python", "C", "SQL", "Bash", "Power BI", "PHP"]
         self.learning = ["Power Platform", "Databricks", "AI agents"]
         self.hobbies = ["MMA", "One Piece", "8-ball pool"]
 
@@ -61,7 +62,7 @@ print(me.motto())
 **💻 Languages & Tools**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,php,git,github,vscode,latex&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,c,bash,linux,mysql,html,css,php,git,github,vscode,latex&perline=12" alt="Tech stack" />
 </p>
 
 **📊 Data & Business Tools**
@@ -88,6 +89,16 @@ print(me.motto())
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=D40511&width=450&lines=Featured+Projects" alt="Featured Projects" />
 </p>
+
+### 💧 [C-Wildwater](https://github.com/QaysChaabaoui/C-Wildwater)
+Data processing tool for a water distribution network: parses a large CSV dataset, stores it in **AVL trees** for fast lookups, computes per-plant volumes (max capacity, treated volume, captured volume) and the **water leak** losses for a given plant. A Bash script handles compilation, input checks, sorting and timing, and generates **GnuPlot** histograms (top 10 / bottom 50). Team project.
+<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/GnuPlot-D40511?style=flat-square"/> <img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=gnu&logoColor=white"/>
+
+### 🐾 [CY-Chen](https://github.com/QaysChaabaoui/CY-Chen)
+Command-line management app for an animal shelter: add animals, search, adoptions, inventory by age group and computation of the weekly cleaning workload, with secured user input. Team project.
+<br>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/Makefile-427819?style=flat-square&logo=gnu&logoColor=white"/>
 
 ### 🍔 FC Burger Dreux
 Full web application for a burger restaurant in Dreux: menu, ordering flow and a **SQL database** behind a PHP back-end. Duo project.
