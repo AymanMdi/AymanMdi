@@ -17,7 +17,7 @@
 <br>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&width=700&lines=Data+%26+AI+Engineering+Student+%40+ESILV+🎓;Business+Process+%26+Digital+Solutions+Apprentice+%40+DHL+✈️;Clean+data%2C+smooth+processes%2C+smart+automation+⚙️;PASSIONATE+ABOUT+DATA+AND+AI+!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFCC00&width=800&lines=Data+%26+AI+Engineering+Student+%40+ESILV+🎓;Business+Process+%26+Digital+Solutions+Apprentice+%40+DHL+✈️;Clean+data%2C+smooth+processes%2C+smart+automation+⚙️;PASSIONATE+ABOUT+DATA+AND+AI+!" alt="Typing SVG" />
 </p>
 
 <!-- ===================== ABOUT ME ===================== -->
@@ -41,8 +41,8 @@ class Ayman:
         self.role = "Business Process & Digital Solutions Apprentice @ DHL Global Forwarding"
         self.school = "ESILV - Data & AI Engineering (2026-2029)"
         self.previous = "CY Tech - Integrated Preparatory Cycle"
-        self.stack = ["Python", "C", "SQL", "Bash", "Power BI", "PHP"]
-        self.learning = ["Power Platform", "Databricks", "AI agents"]
+        self.stack = ["Python", "C", "Bash", "SQL", "PHP", "HTML", "CSS", "Git", "VS Code", "Linux", "LaTeX", "Power BI"]
+        self.learning = ["Power Platform", "Process automation", "AI agents"]
         self.hobbies = ["MMA", "One Piece", "8-ball pool"]
 
     def motto(self):
@@ -106,9 +106,9 @@ Full web application for a burger restaurant in Dreux: menu, ordering flow and a
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 ### ⚙️ Master Data automation (in progress)
-Designing an automation solution for a **Master Data Management** process at work: data quality checks, duplicate detection and reporting.
+Designing an automation solution for a **Master Data Management** process at work (data quality checks, duplicate detection, reporting), built with Excel and Office Scripts.
 <br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
