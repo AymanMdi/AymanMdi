@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#0D1117"/>
+<stop offset="0.5" stop-color="#D40511"/>
+<stop offset="1" stop-color="#FFCC00"/>
+</linearGradient>
+<style>
+.t{font:700 70px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;animation:f 1.2s ease-in both}
+.d{font:600 22px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#fff;animation:f 1.2s .4s ease-in both}
+@keyframes f{from{opacity:0}to{opacity:1}}
+</style>
+</defs>
+<path fill="url(#g)" d="M0 0H1200V170C1050 205 900 140 750 160S450 215 300 185 100 150 0 175Z"/>
+<path fill="url(#g)" opacity=".35" d="M0 0H1200V185C1020 160 880 215 720 190S420 150 260 200 80 185 0 195Z"/>
+<text class="t" x="600" y="95" text-anchor="middle">Ayman MADRASSI</text>
+<text class="d" x="600" y="135" text-anchor="middle">Data &amp; AI Engineering Apprentice</text>
+</svg>
