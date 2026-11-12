@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:D40511,100:FFCC00&height=220&section=header&text=Ayman%20MADRASSI&fontSize=70&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Data%20%26%20AI%20Engineering%20Apprentice&descSize=20&descAlignY=56" width="100%" alt="Ayman MADRASSI banner"/>
+<img src="./header.svg" width="100%" alt="Ayman MADRASSI banner"/>
 </p>
 
 <p align="center">
@@ -105,5 +105,5 @@ Designing an automation solution for a **Master Data Management** process at wor
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCC00,50:D40511,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+<img src="./footer.svg" width="100%" alt="footer"/>
 </p>
