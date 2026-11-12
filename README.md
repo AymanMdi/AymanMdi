@@ -106,9 +106,9 @@ Full web application for a burger restaurant in Dreux: menu, ordering flow and a
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 ### ⚙️ Master Data automation (in progress)
-Designing an automation solution for a **Master Data Management** process at work (data quality checks, duplicate detection, reporting), built with Excel and Office Scripts.
+Designing an automation solution for a **Master Data Management** process at work: data quality checks, duplicate detection and reporting.
 <br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Office_Scripts-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
